@@ -6,4 +6,4 @@ Practicing with fetch-API, DOM and promises.
 
 https://jokes-memes.netlify.app/
 
-https://github.com/MarcosUgalde/fetch-jokes-dom/blob/master/pic.png?raw=true
+![demo](https://github.com/MarcosUgalde/fetch-jokes-dom/blob/master/pic.png?raw=true)
