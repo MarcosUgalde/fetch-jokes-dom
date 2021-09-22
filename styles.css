@@ -1,0 +1,16 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  font-family: "Gloria Hallelujah", cursive;
+}
+img {
+  max-width: 500px;
+  display: block;
+  margin: 1em;
+}
+p {
+  font-size: 2rem;
+  margin: 1em;
+  max-width: 500px;
+}
